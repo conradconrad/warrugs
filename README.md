@@ -19,6 +19,6 @@ Can there be such a thing as an “authentic” Afghan war rug? Most are woven i
 ## Further Reading
 - Sudeith, Kevin. [WarRug.com](https://www.warrug.com).
 - Lendon, Nigel. [Rugs of War](https://rugsofwar.wordpress.com).
-- Mascelloni, Enrico, and Annemarie Sawkins, Ph.D. "[Afghan War Rugs: The Modern Art of Central Asia](https://mag.rochester.edu/wp-content/uploads/2016/01/Afghan-War-Rugs_Brochure_2016.pdf)" [PDF]. Memorial Art Gallery, August 21 - October 16.
+- Mascelloni, Enrico, and Annemarie Sawkins, Ph.D. "[Afghan War Rugs: The Modern Art of Central Asia](https://mag.rochester.edu/wp-content/uploads/2016/01/Afghan-War-Rugs_Brochure_2016.pdf)" [PDF]. Memorial Art Gallery.
 
 This project is based on the [Historic Tale Construction Kit](https://github.com/htck/bayeux).
